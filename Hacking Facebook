@@ -1,0 +1,4 @@
+Pkg install 
+Pkg opo
+Pkg update 
+git clone 
